@@ -10,6 +10,7 @@ Fecha		Autor		Comentario
 =====		=====		=============================================
 
 28/02/2017	AFV		Creación de estructura de directorios
+15/03/2017	AFV		Ejemplo de creación de libreria de utilidades
 
 */
 
